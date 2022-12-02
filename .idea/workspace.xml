@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day03_code/day03_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03_code/src/com/arithme/ArithmeticOperationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_code/day04_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06_code/day06_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_code/day07_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_code/src/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08_code/src/com/ithome/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02_code/src/com/itheima/demo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_code/src/com/itheima/demo/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +52,10 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "fileTemplates"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="ArithmeticOperationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arithme.ArithmeticOperationDemo" />
       <module name="day03_code" />
@@ -96,20 +96,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="StudyLessonOne" />
+      <module name="day06_code" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.ArithmeticOperationDemo" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +124,10 @@
       <workItem from="1669637348950" duration="2168000" />
       <workItem from="1669639546840" duration="1219000" />
       <workItem from="1669789694820" duration="5150000" />
-      <workItem from="1669858933609" duration="3891000" />
+      <workItem from="1669858933609" duration="7948000" />
+      <workItem from="1669899935557" duration="603000" />
+      <workItem from="1669953375227" duration="2836000" />
+      <workItem from="1669977460229" duration="1376000" />
     </task>
     <servers />
   </component>
