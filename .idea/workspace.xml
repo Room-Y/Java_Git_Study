@@ -5,14 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day09_code/day09_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_code/src/practice/game/GameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_code/src/practice/game/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_code/src/practice/student/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09_code/src/practice/student/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_code/src/replaceStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/day11_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/com/list/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/com/list/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_code/src/com/list/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12_code/day12_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12_code/src/LoginSystem/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12_code/src/ManageStudent/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12_code/src/ManageStudent/StudentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/day13_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/a01staticdemo1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/a01staticdemo1/studentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/a02staticdemo1/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/a02staticdemo1/Testm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/inherit/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/inherit/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/inherit/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/inherit/Husky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/inherit/LiHua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/inherit/Ragdoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/inherit/Teddy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/inherit/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/override/ChineseDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/override/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/override/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/override/Husky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13_code/src/override/SharPei.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,13 +78,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.replaceStr">
-    <configuration name="GameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.game.GameTest" />
-      <module name="day09_code" />
+  <component name="RunManager" selected="Application.DogTest">
+    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="override.DogTest" />
+      <module name="day13_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.game.*" />
+          <option name="PATTERN" value="override.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,41 +92,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="day05_code" />
+    <configuration name="StudentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManageStudent.StudentSystem" />
+      <module name="day12_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ManageStudent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="day06_code" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inherit.Test" />
+      <module name="day13_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inherit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="day10_code" />
+    <configuration name="Testm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02staticdemo1.Testm" />
+      <module name="day13_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a02staticdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="replaceStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="replaceStr" />
-      <module name="day10_code" />
+    <configuration name="studentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a01staticdemo1.studentTest" />
+      <module name="day13_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a01staticdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.replaceStr" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.GameTest" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.DogTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Testm" />
+        <item itemvalue="Application.studentTest" />
+        <item itemvalue="Application.StudentSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +171,7 @@
       <workItem from="1669977460229" duration="6622000" />
       <workItem from="1670005850218" duration="1307000" />
       <workItem from="1670298453889" duration="3429000" />
+      <workItem from="1670325448809" duration="18114000" />
     </task>
     <servers />
   </component>
