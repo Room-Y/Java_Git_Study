@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_6_2__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_6_2__3_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/day18_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/lib/gson-2.6.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/System/SystemAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/bigdecimal/bigdecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/bigdecimal/bigdecimalFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/biginteger/biginteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/biginteger/bigintegerFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/mathAPI/mathAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/objecct/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/objecct/object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18_code/src/runtime/runtime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/gson-2.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_code/day19_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_code/src/craw/craw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_code/src/regex/regex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day19_code/src/regex/regex2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyLessonOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StudyLessonOne.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +52,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,7 +62,7 @@
       <recent name="D:\Java\StudyLessonOne" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.bigdecimalFunc">
+  <component name="RunManager" selected="Application.craw1">
     <configuration name="bigdecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bigdecimal.bigdecimal" />
       <module name="day18_code" />
@@ -101,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="biginteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="biginteger.biginteger" />
-      <module name="day18_code" />
+    <configuration name="craw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="craw.craw1" />
+      <module name="day19_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="biginteger.*" />
+          <option name="PATTERN" value="craw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bigintegerFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="biginteger.bigintegerFunc" />
-      <module name="day18_code" />
+    <configuration name="regex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regex.regex1" />
+      <module name="day19_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="biginteger.*" />
+          <option name="PATTERN" value="regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objecct.object" />
-      <module name="day18_code" />
+    <configuration name="regex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regex.regex2" />
+      <module name="day19_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objecct.*" />
+          <option name="PATTERN" value="regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.craw1" />
+        <item itemvalue="Application.regex2" />
+        <item itemvalue="Application.regex1" />
         <item itemvalue="Application.bigdecimalFunc" />
         <item itemvalue="Application.bigdecimal" />
-        <item itemvalue="Application.bigintegerFunc" />
-        <item itemvalue="Application.biginteger" />
-        <item itemvalue="Application.object" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +161,8 @@
       <workItem from="1670608694094" duration="928000" />
       <workItem from="1670609674646" duration="40000" />
       <workItem from="1671823296265" duration="2113000" />
-      <workItem from="1672050462251" duration="8902000" />
+      <workItem from="1672050462251" duration="10847000" />
+      <workItem from="1672168620918" duration="4422000" />
     </task>
     <servers />
   </component>
