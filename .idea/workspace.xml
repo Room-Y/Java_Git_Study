@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day20_code/day20_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/Date/date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/JDK8Date/Gap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/JDK8Date/Localdatetime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/JDK8Date/format.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/JDK8Date/instant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/JDK8Date/java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/calendar/calendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/integer/innteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/simpleDateFormat/simpleDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/test/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/test/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20_code/src/test/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/day21_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/arrays/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/lambda/lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/practice/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/practice/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/practice/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/practice/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/practice/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/practice/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/search/BasicSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/search/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/sort/bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/sort/insertsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/sort/quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day21_code/src/sort/selectsort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -72,38 +74,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.test5">
-    <configuration name="Gap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK8Date.Gap" />
-      <module name="day20_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK8Date.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="innteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="integer.innteger" />
-      <module name="day20_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="integer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.test1" />
-      <module name="day20_code" />
+      <option name="MAIN_CLASS_NAME" value="practice.test1" />
+      <module name="day21_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +88,37 @@
       </method>
     </configuration>
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.test2" />
-      <module name="day20_code" />
+      <option name="MAIN_CLASS_NAME" value="practice.test2" />
+      <module name="day21_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.test3" />
+      <module name="day21_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.test4" />
+      <module name="day21_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.test5" />
-      <module name="day20_code" />
+      <option name="MAIN_CLASS_NAME" value="practice.test5" />
+      <module name="day21_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,10 +142,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.test5" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.test3" />
         <item itemvalue="Application.test2" />
         <item itemvalue="Application.test1" />
-        <item itemvalue="Application.innteger" />
-        <item itemvalue="Application.Gap" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +173,7 @@
       <workItem from="1670609674646" duration="40000" />
       <workItem from="1671823296265" duration="2113000" />
       <workItem from="1672050462251" duration="10847000" />
-      <workItem from="1672168620918" duration="15590000" />
+      <workItem from="1672168620918" duration="24495000" />
     </task>
     <servers />
   </component>
