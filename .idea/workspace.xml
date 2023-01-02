@@ -5,27 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day23_code/day23_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/genericTest/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/genericTest/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/genericTest/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/genericTest/HuskyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/genericTest/LiHuaCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/genericTest/PersianCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/genericTest/TeddyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/genericTest/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/generics/genericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/generics/genericFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/generics/genericinterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/generics/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/set/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/set/bianli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/set/hashset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/set/linkedHashset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/set/treeset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/set/treesetCompartor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23_code/src/set/treesetdemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/day24_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/hashmap/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/hashmap/hashmapdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/hashmap/hashmapdemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/linkedHashMap/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/map/foreachdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/map/mapdemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/treemap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/treemap/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_code/src/treemap/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25_code/src/args/argdemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,21 +48,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java/StudyLessonOne/day18_code/lib&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "D:/Java/StudyLessonOne/day18_code/lib",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\StudyLessonOne\day18_code\lib" />
@@ -78,13 +70,13 @@
       <recent name="D:\Java\StudyLessonOne" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.treesetCompartor">
-    <configuration name="hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.hashset" />
-      <module name="day23_code" />
+  <component name="RunManager" selected="Application.argdemo">
+    <configuration name="argdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="args.argdemo" />
+      <module name="day24_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="args.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linkedHashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.linkedHashset" />
-      <module name="day23_code" />
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedHashMap.demo1" />
+      <module name="day24_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="linkedHashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="treeset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.treeset" />
-      <module name="day23_code" />
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treemap.demo2" />
+      <module name="day24_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="treemap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="treesetCompartor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.treesetCompartor" />
-      <module name="day23_code" />
+    <configuration name="hashmapdemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashmap.hashmapdemo2" />
+      <module name="day24_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="treesetdemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.treesetdemo2" />
-      <module name="day23_code" />
+    <configuration name="treemap.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treemap.demo1" />
+      <module name="day24_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="treemap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.treesetCompartor" />
-        <item itemvalue="Application.treesetdemo2" />
-        <item itemvalue="Application.treeset" />
-        <item itemvalue="Application.hashset" />
-        <item itemvalue="Application.linkedHashset" />
+        <item itemvalue="Application.argdemo" />
+        <item itemvalue="Application.demo2" />
+        <item itemvalue="Application.treemap.demo1" />
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.hashmapdemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +171,8 @@
       <workItem from="1671823296265" duration="2113000" />
       <workItem from="1672050462251" duration="10847000" />
       <workItem from="1672168620918" duration="34713000" />
-      <workItem from="1672479121398" duration="3095000" />
+      <workItem from="1672479121398" duration="3693000" />
+      <workItem from="1672644917034" duration="10601000" />
     </task>
     <servers />
   </component>
