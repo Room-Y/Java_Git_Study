@@ -5,21 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day24_code/day24_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/hashmap/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/hashmap/hashmapdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/hashmap/hashmapdemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/linkedHashMap/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/map/foreachdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/map/mapdemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/treemap/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/treemap/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day24_code/src/treemap/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25_code/src/args/argdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25_code/src/Landlord/landlord" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25_code/src/PokerGame/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25_code/src/PokerGame/PokerGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25_code/src/practice/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25_code/src/practice/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25_code/src/practice/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25_code/src/practice/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/day26_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/immutate/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/immutate/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/method/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/method/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/method/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/method/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/method/demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/practice/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/practice/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/practice/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/practice/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/practiceTest/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/practiceTest/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/practiceTest/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/stream1/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/stream1/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/stream1/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26_code/src/stream1/demo4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day25_code/src/practice/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day25_code/src/practice/test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,61 +63,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "D:/Java/StudyLessonOne/day18_code/lib",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/StudyLessonOne/day18_code/lib&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\StudyLessonOne\day18_code\lib" />
       <recent name="D:\Java\StudyLessonOne\lib" />
       <recent name="D:\Java\StudyLessonOne" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practiceTest" />
+      <recent name="PokerGame" />
+      <recent name="args" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.argdemo">
-    <configuration name="argdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="args.argdemo" />
-      <module name="day24_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="args.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedHashMap.demo1" />
-      <module name="day24_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedHashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test2">
     <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="treemap.demo2" />
-      <module name="day24_code" />
+      <option name="MAIN_CLASS_NAME" value="method.demo2" />
+      <module name="day26_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="treemap.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashmapdemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap.hashmapdemo2" />
-      <module name="day24_code" />
+    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.demo3" />
+      <module name="day26_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashmap.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +117,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="treemap.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="treemap.demo1" />
-      <module name="day24_code" />
+    <configuration name="demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.demo4" />
+      <module name="day26_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="treemap.*" />
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceTest.test1" />
+      <module name="day26_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceTest.test2" />
+      <module name="day26_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.argdemo" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.demo4" />
+        <item itemvalue="Application.demo3" />
         <item itemvalue="Application.demo2" />
-        <item itemvalue="Application.treemap.demo1" />
-        <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.hashmapdemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +192,11 @@
       <workItem from="1672050462251" duration="10847000" />
       <workItem from="1672168620918" duration="34713000" />
       <workItem from="1672479121398" duration="3693000" />
-      <workItem from="1672644917034" duration="10601000" />
+      <workItem from="1672644917034" duration="13047000" />
+      <workItem from="1672685570383" duration="1224000" />
+      <workItem from="1672726197159" duration="129000" />
+      <workItem from="1672741736595" duration="46000" />
+      <workItem from="1672741995385" duration="13415000" />
     </task>
     <servers />
   </component>
