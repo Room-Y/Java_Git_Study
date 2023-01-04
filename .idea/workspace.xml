@@ -5,36 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day25_code/src/Landlord/landlord" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25_code/src/PokerGame/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25_code/src/PokerGame/PokerGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25_code/src/practice/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25_code/src/practice/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25_code/src/practice/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day25_code/src/practice/test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/day26_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/immutate/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/immutate/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/method/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/method/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/method/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/method/demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/method/demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/practice/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/practice/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/practice/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/practice/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/practiceTest/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/practiceTest/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/practiceTest/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/stream1/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/stream1/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/stream1/demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26_code/src/stream1/demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/File/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/File/allforeachFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/File/b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/File/deleteOrCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/File/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/File/dir2/dir3/dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/File/getOrforeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/File/panduanOrhuoqu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/catchExecption/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/catchExecption/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/exception/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/exception/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/exception/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/filePractice/aaa/b.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/filePractice/aaa/d.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/filePractice/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/filePractice/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/filePractice/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/filePractice/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/filePractice/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/filePractice/test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/practice/AgeOutofBoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/practice/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/practice/NameFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/practice/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27_code/src/practice/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day25_code/src/practice/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day25_code/src/practice/test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,65 +89,65 @@
       <recent name="args" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test2">
-    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.demo2" />
-      <module name="day26_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.demo3" />
-      <module name="day26_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.demo4" />
-      <module name="day26_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceTest.test1" />
-      <module name="day26_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test6">
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceTest.test2" />
-      <module name="day26_code" />
+      <option name="MAIN_CLASS_NAME" value="filePractice.test2" />
+      <module name="day27_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceTest.*" />
+          <option name="PATTERN" value="filePractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filePractice.test3" />
+      <module name="day27_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="filePractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filePractice.test4" />
+      <module name="day27_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="filePractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filePractice.test5" />
+      <module name="day27_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="filePractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filePractice.test6" />
+      <module name="day27_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="filePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test6" />
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.test3" />
         <item itemvalue="Application.test2" />
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.demo4" />
-        <item itemvalue="Application.demo3" />
-        <item itemvalue="Application.demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +196,7 @@
       <workItem from="1672726197159" duration="129000" />
       <workItem from="1672741736595" duration="46000" />
       <workItem from="1672741995385" duration="13415000" />
+      <workItem from="1672820817612" duration="15447000" />
     </task>
     <servers />
   </component>
