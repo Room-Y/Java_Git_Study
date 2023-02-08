@@ -5,29 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/day29_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/bufferPractice/count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/bufferPractice/csb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/bufferPractice/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/bufferPractice/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/bufferStream/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/bufferStream/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/bufferStream/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/commonsio/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/commonsio/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/objectInputStream/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/objectInputStream/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/objectInputStream/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/printStream/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/streamRW/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/streamRW/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29_code/src/streamRW/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_1_12__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/druid-1.1.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/druid/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/druid/druidDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/jdbc/JDBCdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/jdbc/JDBCdemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/jdbc/JDBCdemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/jdbc/JDBCdemoSQLprepared.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/jdbc/JDBCdemoSQLzhuru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/test/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudyLessonOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StudyLessonOne.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +59,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "D:/Java/StudyLessonOne/lib",
+    "last_opened_file_path": "D:/Java/StudyLessonOne/JDBC/src/test",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "Errors"
@@ -73,28 +69,31 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\StudyLessonOne\JDBC\src\test" />
+      <recent name="D:\Java\StudyLessonOne\JDBC" />
+      <recent name="D:\Java\StudyLessonOne\JDBC\src\druid" />
       <recent name="D:\Java\StudyLessonOne\lib" />
       <recent name="D:\Java\StudyLessonOne\day29_code\src\bufferPractice" />
-      <recent name="D:\Java\StudyLessonOne\day28_code\src\practice\encode" />
-      <recent name="D:\Java\StudyLessonOne\day18_code\lib" />
-      <recent name="D:\Java\StudyLessonOne" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\StudyLessonOne" />
       <recent name="D:\Java\StudyLessonOne\day28_code\src\byteStream" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="druid" />
+      <recent name="jdbc" />
       <recent name="practiceTest" />
       <recent name="PokerGame" />
       <recent name="args" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.commonsio.demo1">
-    <configuration name="commonsio.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="commonsio.demo1" />
-      <module name="day29_code" />
+  <component name="RunManager" selected="Application.testDemo1">
+    <configuration name="JDBCdemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.JDBCdemo3" />
+      <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="commonsio.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectInputStream.demo1" />
-      <module name="day29_code" />
+    <configuration name="JDBCdemoSQLprepared" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.JDBCdemoSQLprepared" />
+      <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectInputStream.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printStream.demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="printStream.demo1" />
-      <module name="day29_code" />
+    <configuration name="JDBCdemoSQLzhuru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.JDBCdemoSQLzhuru" />
+      <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="printStream.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="streamRW.demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamRW.demo2" />
-      <module name="day29_code" />
+    <configuration name="druidDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="druid.druidDemo" />
+      <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamRW.*" />
+          <option name="PATTERN" value="druid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectInputStream.test1" />
-      <module name="day29_code" />
+    <configuration name="testDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.testDemo1" />
+      <module name="JDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectInputStream.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.commonsio.demo1" />
-        <item itemvalue="Application.printStream.demo1" />
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.streamRW.demo2" />
+        <item itemvalue="Application.testDemo1" />
+        <item itemvalue="Application.druidDemo" />
+        <item itemvalue="Application.JDBCdemoSQLprepared" />
+        <item itemvalue="Application.JDBCdemoSQLzhuru" />
+        <item itemvalue="Application.JDBCdemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +195,13 @@
       <workItem from="1672741736595" duration="46000" />
       <workItem from="1672741995385" duration="13415000" />
       <workItem from="1672820817612" duration="24407000" />
-      <workItem from="1672976658512" duration="15252000" />
+      <workItem from="1672976658512" duration="15880000" />
+      <workItem from="1673943939067" duration="433000" />
+      <workItem from="1673945449710" duration="2905000" />
+      <workItem from="1675767046653" duration="7572000" />
+      <workItem from="1675776182823" duration="408000" />
+      <workItem from="1675851989166" duration="901000" />
+      <workItem from="1675852907779" duration="1715000" />
     </task>
     <servers />
   </component>
