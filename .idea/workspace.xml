@@ -5,24 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven-project/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/src/main/java/com/itheima/pojo/MybatisDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/src/main/java/com/itheima/pojo/MybatisDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/src/main/java/com/itheima/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/src/main/java/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_demo/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/01-JavaScript演示.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/02-引入方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/03-输出语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/04-变量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/05-数据类型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/06-运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/07-流程控制语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/08-函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/09-数组.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/10-字符串.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/11-自定义对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/12-window对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/13-定时器案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/15-location.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/17-事件绑定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/18-常见事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/19-表单验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/20-正则表达式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/JavaScript/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/css/01-css入门.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/css/02-css导入方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/css/03-css选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/01-基础标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/02-图片音频视频.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/03-超链接标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/04-列表标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/05-表格标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/06-布局标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/07-表单标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/08-表单项标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/b.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/html/c.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/gou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/off.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/on.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/reg_bg_min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/三只松鼠.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/优衣库.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/小米.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/表格案例.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +62,8 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -54,12 +83,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "D:/Java/StudyLessonOne/mybatis_demo/src/main/resources",
+    "last_opened_file_path": "D:/Java/StudyLessonOne/html/JavaScript",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -74,11 +104,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\StudyLessonOne\html\JavaScript" />
+      <recent name="D:\Java\StudyLessonOne\html\css" />
+      <recent name="D:\Java\StudyLessonOne\html\img" />
+      <recent name="D:\Java\StudyLessonOne\html\html" />
       <recent name="D:\Java\StudyLessonOne\mybatis_demo\src\main\resources" />
-      <recent name="D:\Java\StudyLessonOne\JDBC\src\test" />
-      <recent name="D:\Java\StudyLessonOne\JDBC" />
-      <recent name="D:\Java\StudyLessonOne\JDBC\src\druid" />
-      <recent name="D:\Java\StudyLessonOne\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\StudyLessonOne\mybatis_demo\src\main\resources\mapper" />
@@ -93,79 +123,29 @@
       <recent name="PokerGame" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MybatisDemo2">
-    <configuration name="JDBCdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbc.JDBCdemo" />
-      <module name="JDBC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="JavaScript Debug.19-表单验证.html">
+    <configuration name="15-location.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StudyLessonOne/html/JavaScript/15-location.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
-    <configuration name="JDBCdemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbc.JDBCdemo2" />
-      <module name="JDBC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="17-事件绑定.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StudyLessonOne/html/JavaScript/17-事件绑定.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
-    <configuration name="MybatisDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.pojo.MybatisDemo" />
-      <module name="mybatis_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.pojo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="18-常见事件.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StudyLessonOne/html/JavaScript/18-常见事件.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
-    <configuration name="MybatisDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.pojo.MybatisDemo2" />
-      <module name="mybatis_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.pojo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="19-表单验证.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StudyLessonOne/html/JavaScript/19-表单验证.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
-    <configuration name="testDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.testDemo1" />
-      <module name="JDBC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="20-正则表达式.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StudyLessonOne/html/JavaScript/20-正则表达式.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MybatisDemo2" />
-        <item itemvalue="Application.MybatisDemo" />
-        <item itemvalue="Application.JDBCdemo" />
-        <item itemvalue="Application.JDBCdemo2" />
-        <item itemvalue="Application.testDemo1" />
+        <item itemvalue="JavaScript Debug.19-表单验证.html" />
+        <item itemvalue="JavaScript Debug.20-正则表达式.html" />
+        <item itemvalue="JavaScript Debug.18-常见事件.html" />
+        <item itemvalue="JavaScript Debug.17-事件绑定.html" />
+        <item itemvalue="JavaScript Debug.15-location.html" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +190,11 @@
       <workItem from="1675852907779" duration="4003000" />
       <workItem from="1675904657384" duration="6047000" />
       <workItem from="1675913555241" duration="3823000" />
+      <workItem from="1675925202808" duration="112000" />
+      <workItem from="1675925542168" duration="624000" />
+      <workItem from="1675926792875" duration="12314000" />
+      <workItem from="1675944132453" duration="3964000" />
+      <workItem from="1676015750373" duration="3609000" />
     </task>
     <servers />
   </component>
