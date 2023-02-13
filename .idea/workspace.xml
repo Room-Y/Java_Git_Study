@@ -1,55 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tomcat:war" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f0d89-267b-4961-9cc2-49831296e3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/01-JavaScript演示.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/02-引入方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/03-输出语句.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/04-变量.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/05-数据类型.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/06-运算符.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/07-流程控制语句.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/08-函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/09-数组.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/10-字符串.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/11-自定义对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/12-window对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/13-定时器案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/15-location.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/17-事件绑定.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/18-常见事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/19-表单验证.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/20-正则表达式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/JavaScript/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/css/01-css入门.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/css/02-css导入方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/css/03-css选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/01-基础标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/02-图片音频视频.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/03-超链接标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/04-列表标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/05-表格标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/06-布局标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/07-表单标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/08-表单项标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/b.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html/c.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/gou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/off.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/on.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/reg_bg_min.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/三只松鼠.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/优衣库.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/小米.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/表格案例.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/request/requestDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/request/requestDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/request/requestDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/request/requestServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/response/responseDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/response/responseDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/response/responseDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/response/responseDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/servlet/servletDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/servlet/servletDemo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/servlet/servletDemo14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/servlet/servletDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/servlet/servletDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/servlet/servletDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/userLogin/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/userLogin/RegisterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/userLogin/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/userLogin/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/java/utils/SqlSessionFactoryUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/resources/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/resources/userLogin/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/imgs/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/imgs/reg_bg_min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/src/main/webapp/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,15 +58,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,49 +86,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "D:/Java/StudyLessonOne/html/JavaScript",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "SQL Dialects"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/StudyLessonOne/tomcat/src/main/resources/userLogin&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\StudyLessonOne\html\JavaScript" />
-      <recent name="D:\Java\StudyLessonOne\html\css" />
-      <recent name="D:\Java\StudyLessonOne\html\img" />
-      <recent name="D:\Java\StudyLessonOne\html\html" />
-      <recent name="D:\Java\StudyLessonOne\mybatis_demo\src\main\resources" />
+      <recent name="D:\Java\StudyLessonOne\tomcat\src\main\resources\userLogin" />
+      <recent name="D:\Java\StudyLessonOne\tomcat\src\main\resources" />
+      <recent name="D:\Java\StudyLessonOne\tomcat\src\main\java\userLogin" />
+      <recent name="D:\Java\StudyLessonOne\tomcat\src\main\webapp" />
+      <recent name="D:\Java\StudyLessonOne\tomcat" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\StudyLessonOne\tomcat\src\main\java\response" />
       <recent name="D:\Java\StudyLessonOne\mybatis_demo\src\main\resources\mapper" />
       <recent name="D:\Java\StudyLessonOne" />
       <recent name="D:\Java\StudyLessonOne\day28_code\src\byteStream" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="response" />
       <recent name="com.itheima.pojo" />
       <recent name="druid" />
       <recent name="jdbc" />
       <recent name="practiceTest" />
-      <recent name="PokerGame" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.19-表单验证.html">
+  <component name="RunManager" selected="Tomcat Server.tomcat_local">
     <configuration name="15-location.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StudyLessonOne/html/JavaScript/15-location.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -139,6 +146,101 @@
     <configuration name="20-正则表达式.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StudyLessonOne/html/JavaScript/20-正则表达式.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="tomcat_local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.85" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="tomcat:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tomcat_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="20c6575c-544a-4ed7-8a55-414eb7c93643" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53831" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tomcat:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.15-location.html" />
+      <item itemvalue="JavaScript Debug.17-事件绑定.html" />
+      <item itemvalue="JavaScript Debug.18-常见事件.html" />
+      <item itemvalue="JavaScript Debug.19-表单验证.html" />
+      <item itemvalue="JavaScript Debug.20-正则表达式.html" />
+      <item itemvalue="Tomcat Server.tomcat_local" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.19-表单验证.html" />
@@ -195,6 +297,15 @@
       <workItem from="1675926792875" duration="12314000" />
       <workItem from="1675944132453" duration="3964000" />
       <workItem from="1676015750373" duration="3609000" />
+      <workItem from="1676091603079" duration="699000" />
+      <workItem from="1676180221050" duration="1472000" />
+      <workItem from="1676188186242" duration="690000" />
+      <workItem from="1676188894689" duration="487000" />
+      <workItem from="1676189396857" duration="1530000" />
+      <workItem from="1676190951703" duration="1849000" />
+      <workItem from="1676192831798" duration="5636000" />
+      <workItem from="1676253161078" duration="6914000" />
+      <workItem from="1676260626144" duration="131000" />
     </task>
     <servers />
   </component>
