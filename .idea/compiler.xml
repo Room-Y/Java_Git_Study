@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mybatis_demo" />
+        <module name="session_cookie" />
         <module name="maven-project" />
         <module name="tomcat" />
         <module name="JSP" />

@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/JSP" />
+    <file type="web" url="file://$PROJECT_DIR$/session_cookie" />
     <file type="web" url="file://$PROJECT_DIR$/tomcat" />
   </component>
   <component name="MavenProjectsManager">
@@ -12,6 +13,7 @@
         <option value="$PROJECT_DIR$/mybatis_demo/pom.xml" />
         <option value="$PROJECT_DIR$/tomcat/pom.xml" />
         <option value="$PROJECT_DIR$/JSP/pom.xml" />
+        <option value="$PROJECT_DIR$/session_cookie/pom.xml" />
       </list>
     </option>
   </component>
