@@ -5,6 +5,8 @@
     <file type="web" url="file://$PROJECT_DIR$/JSP" />
     <file type="web" url="file://$PROJECT_DIR$/session_cookie" />
     <file type="web" url="file://$PROJECT_DIR$/tomcat" />
+    <file type="web" url="file://$PROJECT_DIR$/Web-Ajax" />
+    <file type="web" url="file://$PROJECT_DIR$/Web-Filter" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -14,6 +16,8 @@
         <option value="$PROJECT_DIR$/tomcat/pom.xml" />
         <option value="$PROJECT_DIR$/JSP/pom.xml" />
         <option value="$PROJECT_DIR$/session_cookie/pom.xml" />
+        <option value="$PROJECT_DIR$/Web-Filter/pom.xml" />
+        <option value="$PROJECT_DIR$/Web-Ajax/pom.xml" />
       </list>
     </option>
   </component>
